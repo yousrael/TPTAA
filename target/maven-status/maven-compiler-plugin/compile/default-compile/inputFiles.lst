@@ -1,0 +1,14 @@
+/home/yousra/workspace/TPSpring/src/main/java/Client/domain/IClient.java
+/home/yousra/workspace/TPSpring/src/main/java/sample/simple/service/HelloWorldService.java
+/home/yousra/workspace/TPSpring/src/main/java/Bank/domain/IBank.java
+/home/yousra/workspace/TPSpring/src/main/java/Store/domain/IJustHaveALook.java
+/home/yousra/workspace/TPSpring/src/main/java/Store/domain/IFastLane.java
+/home/yousra/workspace/TPSpring/src/main/java/Bank/domain/Bank.java
+/home/yousra/workspace/TPSpring/src/main/java/Provider/domain/Provider.java
+/home/yousra/workspace/TPSpring/src/main/java/Provider/domain/IProvider.java
+/home/yousra/workspace/TPSpring/src/main/java/Store/domain/Store.java
+/home/yousra/workspace/TPSpring/src/main/java/Client/domain/IRun.java
+/home/yousra/workspace/TPSpring/src/main/java/Store/domain/ILane.java
+/home/yousra/workspace/TPSpring/src/main/java/sample/simple/SampleSimpleApplication.java
+/home/yousra/workspace/TPSpring/src/main/java/Client/domain/Client.java
+/home/yousra/workspace/TPSpring/src/main/java/Store/domain/IStore.java
